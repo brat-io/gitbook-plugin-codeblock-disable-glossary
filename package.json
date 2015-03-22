@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-codeblock-disable-glossary",
+    "description": "Gitbook plugin to disable glossary links in a block of code.",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/brat-io/gitbook-plugin-codeblock-disable-glossary",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brat-io/gitbook-plugin-codeblock-disable-glossary.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brat-io/gitbook-plugin-codeblock-disable-glossary/issues"
+    }
+}
